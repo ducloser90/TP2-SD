@@ -1,5 +1,7 @@
 # Activité Pratique N°2 - Spring Data JPA Hibernate
 
+# Partie 1
+
 ## Étape 1 : Installer IntelliJ Ultimate
 
 ## Étape 2 : Créer un projet Spring Initializer
@@ -75,6 +77,48 @@
 - Migration réussie
 
   ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/baccaa5e-40ea-4d60-b2fd-40615d4b50d3)
+
+# Partie 2
+
+- Creation des entites Jpa Patient, Médecin, rendez-vous et consultation:
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/d8aa89ba-29ab-4fb1-ad55-78728dd6cef5)
+
+- Creation des interfaces repositories
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/29277122-91f0-40af-8bc8-1e7d296bf582)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/bfc642ac-8401-4e23-8f0c-4c3677d57e38)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/7d708e06-3d29-426d-83f8-6ec7e17d1ec0)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/3adc8dc9-a720-4d98-981a-42f0cae99cf1)
+
+- Les tests :
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/87199f98-d255-4c43-8ef2-16a8e5aa5aef)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/3dab7b4c-a0fe-45fa-99b3-45be9b8c56b7)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/20a7a9f2-32ab-4e3a-bb6b-179a095ba12a)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/5b155eec-b0bd-4e5e-a0e6-2b08b93e1908)
+
+- Partie Web sous forme de Json
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/3747ff8f-45cc-404a-9579-4356bb19bb02)
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
