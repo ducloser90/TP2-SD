@@ -108,6 +108,40 @@
 
   ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/3747ff8f-45cc-404a-9579-4356bb19bb02)
 
+# Many To Many Case
+
+- Creation des entites
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/b23c6ff5-7dc0-4c76-9c22-52fdeff1b216)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/4bd75114-e3b5-4dca-bb41-154cf0156ba0)
+
+- Creation des interfaces
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/1a1c2109-b650-478d-a5f6-6f95973924f9)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/2ab48bc3-9296-42b3-995f-96b738397649)
+
+- Les tests
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/a384b6c3-72c2-469d-a83c-2c2b2c25079d)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/0161e797-6fc3-4e63-8a02-a032ee25dd36)
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/13d2fb8b-5d01-4feb-a8a5-dd7e1f917994)
+
+- Parie Web sous forme de Json
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/969de690-f6a2-45c3-b9f1-d90f72a606fc)
+
+
+
+
+
+
+
+
+
 
 
 
