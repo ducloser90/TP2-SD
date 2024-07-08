@@ -1,1 +1,81 @@
-# TP2-SD
+# Activité Pratique N°2 - Spring Data JPA Hibernate
+
+## Étape 1 : Installer IntelliJ Ultimate
+
+## Étape 2 : Créer un projet Spring Initializer
+- Ajouter les dépendances : JPA, H2, Spring Web, Lombok
+
+## Étape 3 : Créer l'entité JPA Patient
+
+![image](https://github.com/ducloser90/TP2-SD/assets/167253342/60cc9ee3-e3ba-44e0-bf54-369a60bbf784)
+
+## Étape 4 : Configurer l'unité de persistance dans le fichier `application.properties`
+
+![image](https://github.com/ducloser90/TP2-SD/assets/167253342/830b337e-4f3f-4ba3-a80d-0cd7e29c6ef2)
+
+## Étape 5 : Créer l'interface JPA Repository basée sur Spring Data
+
+![image](https://github.com/ducloser90/TP2-SD/assets/167253342/bfc035fd-c820-4ab1-9602-494dcfce2f12)
+
+## Étape 6 : Tester quelques opérations de gestion de patients
+- Ajouter des patients
+  
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/86d4b983-dbb0-4f1e-8c95-21a3aaee2956)
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/be641321-13d3-47d5-9ca3-60b2e90ea8de)
+
+- Consulter tous les patients
+  
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/338970c3-9d9d-43dd-bfae-d0cc00f865aa)
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/6278ad51-5aeb-4892-b251-23e313d9131b)
+
+- Consulter un patient
+  
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/fb405762-1225-4e63-8475-bcc9a2175ee9)
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/59d9195a-539f-4ca1-863e-6865ada6370f)
+
+- Mettre à jour un patient
+  
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/5371b3af-b458-4522-a7a9-591a72495cd0)
+  
+  Modification du Score:
+  
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/8816077a-c3fb-4629-8d79-bfcad4fe0abc)
+
+  Modification réussie
+  
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/9c4c3e1a-1d4a-45ca-867a-9e851ecc83bc)
+
+- Supprimer un patient
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/9c4c3e1a-1d4a-45ca-867a-9e851ecc83bc)
+
+  Suppression
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/179c8b9c-bb07-4893-8bec-8ae081b2256d)
+
+  Suppression réussie
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/0450138e-7621-4891-8b9b-18c6e8ad67e5)
+
+
+## Étape 7 : Migrer de H2 Database vers MySQL
+
+- Demarrer MysQL
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/79a3d433-37ad-4fa5-b86b-e36fccc70023)
+
+- Changer la dependance
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/82f958ff-99df-453b-90c9-537aec75bdf3)
+
+- Modifier le fichier application.properties
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/380fe0b9-817f-473c-97b3-73daa6b0eb78)
+
+- Migration réussie
+
+  ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/baccaa5e-40ea-4d60-b2fd-40615d4b50d3)
+
+
+
+
