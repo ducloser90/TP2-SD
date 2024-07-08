@@ -78,7 +78,7 @@
 
   ![image](https://github.com/ducloser90/TP2-SD/assets/167253342/baccaa5e-40ea-4d60-b2fd-40615d4b50d3)
 
-# Partie 2
+# One To Many & One To One Cases
 
 - Creation des entites Jpa Patient, Médecin, rendez-vous et consultation:
 
